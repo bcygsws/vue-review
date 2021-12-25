@@ -5,6 +5,7 @@ import store from './store';
 
 Vue.config.productionTip = false;
 
+// .$mount绑定控制区域
 new Vue({
   router,
   store,
